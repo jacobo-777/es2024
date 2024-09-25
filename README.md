@@ -15,25 +15,24 @@ el vector mas eficiente fue el vector x ya que podemos evaluar la eficiencia bas
 
 
 Pregunta 3
-class AdjacencyList{
-private;
-int num[] = {0,1,2,3,4,5};
-
-public;
-void c0_ruta()
-void c1_ruta()
-void c2_ruta()
-void c3_ruta()
-void c4_ruta()
-void c5_ruta()
-AdjacencyList(int_num,int_);
-num::num(int_num){
-num=_num
 
 
-int main ()
-c0_ruta = c0(1,4,5);
-c0.conexion
+3. Operaciones para adicionar y remover ciudades:
+Agregar una ciudad:  añaCit(int city) 
+Remover una ciudad: reCity(int city) 
+
+añadir ciudad
+    AdjacencyList ciudad;
+    ciudad.añaCity(0);
+    ciudad.añaCity(1);
+    ciudad.añaCity(2);
+    ciudad.añaCity(3);
+    ciudad.añaCity(4);
+    ciudad.añaCity(5);
+    remover ciudad
+    ciudad.reCity();
+    ciudad.display();
+
 
 
 
